@@ -1,5 +1,5 @@
-streamlit
-opencv-python
-numpy
-Pillow
-face_recognition
+streamlit==0.81.1
+opencv-python==4.5.2.54
+numpy==1.20.3
+Pillow==8.2.0
+face_recognition==1.3.0
